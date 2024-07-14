@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Amitjakhu-Drip-Return.32.png</file>
+        <file>image/Icons8-Ios7-Arrows-Left.32.png</file>
+        <file>image/Icons8-Ios7-Arrows-Right.32.png</file>
+        <file>image/Microsoft-Fluentui-Emoji-Mono-Open-File-Folder.32.png</file>
+        <file>image/Pictogrammers-Material-Road-variant.128.png</file>
+        <file>image/Snipaste_2024-02-05_10-50-41.png</file>
+    </qresource>
+</RCC>
