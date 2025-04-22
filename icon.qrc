@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/Amitjakhu-Drip-Return.32.png</file>
+        <file>icons/Icons8-Ios7-Arrows-Left.32.png</file>
+        <file>icons/Icons8-Ios7-Arrows-Right.32.png</file>
+        <file>icons/Microsoft-Fluentui-Emoji-Mono-Open-File-Folder.32.png</file>
+        <file>icons/Pictogrammers-Material-Road-variant.128.png</file>
+    </qresource>
+</RCC>
